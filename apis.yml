@@ -10,4 +10,6 @@ specificationVersion: '0.19'
 common:
   - type: LinkedIn
     url: https://www.linkedin.com/company/teradyne
+  - url: https://www.teradyne.com/feed/
+    type: Blog
 apis: []
